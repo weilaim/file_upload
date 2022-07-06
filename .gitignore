@@ -1,0 +1,6 @@
+.vscode/
+.env
+main
+data.json
+latest_log.log
+log/
