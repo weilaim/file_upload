@@ -1,7 +1,5 @@
 module github.com/weilaim/blog-api
-
 go 1.16
-
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.8+incompatible
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
